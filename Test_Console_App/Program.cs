@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Abumba");
+﻿using System;
+
+namespace abumba
+{
+    class Program
+    {
+        static void Main(string[] args) 
+        {
+            Console.WriteLine("ABUMBA FOREVER");
+            Console.WriteLine("Nope");
+        }
+    }
+}
